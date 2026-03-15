@@ -61,3 +61,5 @@ php bin/console doctrine:migrations:migrate
 
 run server 
 php -S localhost:8000 -t public
+
+Video (https://we.tl/t-dWJoaemYWC)
