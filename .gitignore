@@ -19,4 +19,9 @@
 /assets/vendor/
 ###< symfony/asset-mapper ###
 
+# variables de entorno 
 .env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
